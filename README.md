@@ -1,4 +1,4 @@
-# AWS-kinesis-lab
+# AWS kinesis lab
 ### Practise python labs for aws kinesis related services. Focus on both producer side and consumer side.
 
 ### kinesis-boto3-template.py:
